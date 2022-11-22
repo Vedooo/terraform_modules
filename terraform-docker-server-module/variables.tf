@@ -5,7 +5,7 @@ variable "instance_type" {
 
 variable "key_name" {
   type = string
-  default = "devopskey"
+  default = "devopskey" # Change here..
 }
 
 variable "num_of_instance" {
